@@ -1,0 +1,49 @@
+/* costome code */
+/* nav bar img */
+header{
+    background-color: #E3F2FD;
+}
+.header_img img{
+height: 60px;
+}
+.breadcrumb {
+    background-color: #ddd;
+    padding: 10px;
+    border-radius: 3px;
+}
+.barcobar {
+    margin: 50px 0px 0px 0px;
+}
+.tosted {
+    margin-top: 9px;
+}
+.carousel-item img{
+    width: auto;
+    height: 350px;
+}
+.carsel_part {margin-top: 20px;}
+.progress-barew{
+    height: 100px;
+}
+.progress {
+    margin: 0px 0px 15px 0px;
+}
+.progress-barppp {
+    margin-top: 39px;
+}
+.model {
+    margin: 30px 0px;
+}
+.secorlar{
+    margin-top: 45px;
+}
+.footer{
+    margin-top: 30px;
+}
+footer{
+    background-color: #17A2B8;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
